@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\enter\\.virtualenvs\\OptPipeline-WwgfeXN9\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
+}
